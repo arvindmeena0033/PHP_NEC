@@ -1,0 +1,98 @@
+body {
+  background-color: powderblue;
+}
+
+.nec-heading {
+  top: 5%;
+  position: relative;
+}
+h1 {
+
+  text-align: center;
+  color: blue;
+}
+.login-buttons {
+  display: flex;
+  padding: 5%;
+  position: relative;
+  top: 10%;
+  width: 50%;
+  margin-left: 20%;
+  background-color: #98cfc5;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  padding: 20px;
+  margin: 2%;
+  border-radius: 50%;
+  background-color: #50c14e;
+}
+button :hover{
+  color: #FFFF;
+}
+
+button a {
+  font-weight: 800;
+}
+
+a :hover{
+  color: #FFFF;
+}
+
+h2 {
+  text-align: center;
+  color: blue;
+}
+
+.login-heading {
+  top: 5%;
+  position: relative;
+}
+
+.login-form {
+  display: flex;
+  padding: 5%;
+  position: relative;
+  top: 10%;
+  width: 50%;
+  margin-left: 20%;
+  background-color: #98cfc5;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  margin: 8%;
+}
+
+.reg-form{
+  display: flex;
+  padding: 5%;
+  position: relative;
+  top: 10%;
+  width: 50%;
+  margin-left: 20%;
+  background-color: #98cfc5;
+  justify-content: center;
+  align-items: center;
+}
+.reg-heading {
+  top: 5%;
+  position: relative;
+}
+.logout {
+  display: flex;
+  /* padding: 5%; */
+  position: relative;
+  top: 10%;
+  margin-left: 43%;
+  background-color: #98cfc5;
+  justify-content: center;
+  align-items: center;
+  background: cornsilk;
+}
+
+.logout a:hover {
+  color: #6b2020;
+}
