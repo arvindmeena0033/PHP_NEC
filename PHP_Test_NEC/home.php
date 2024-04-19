@@ -1,7 +1,7 @@
 <html>
 <head>
   <title>Website Home Page</title>
-  <link rel="stylesheet" href="CSS/style.css" type="text/css"> //adding stylesheet
+  <link rel="stylesheet" href="CSS/style.css" type="text/css">
 </head>
 <?php
 session_start(); //starts the session
