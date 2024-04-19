@@ -1,6 +1,6 @@
 <html>
 <head>
-  <link rel="stylesheet" href="CSS/style.css" type="text/css"> //adding stylesheet
+  <link rel="stylesheet" href="CSS/style.css" type="text/css"> 
   <title>My first PHP Website</title>
 </head>
 <body>
