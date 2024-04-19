@@ -1,7 +1,7 @@
 <html>
 <head>
   <title>My first PHP Website</title>
-  <link rel="stylesheet" href="CSS/style.css" type="text/css"> //adding stylesheet
+  <link rel="stylesheet" href="CSS/style.css" type="text/css">
 </head>
 <body>
   <div class="reg-heading">
